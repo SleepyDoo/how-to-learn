@@ -77,7 +77,7 @@ z-index: 3;
 
 .header__link {
   text-decoration: none;
-  color: #2f80ed
+  color: #2f80ed;
 }
 .header__main-illustration {
   min-width: 765px;
@@ -238,7 +238,7 @@ z-index: 3;
 
 .feynman__image {
   height: 637px;
-  width: 867PX;
+  width: 867px;
   bottom: 0;
   left: 0;
 }
