@@ -1,0 +1,10 @@
+.footer__social-icon {
+  width: 16px;
+  height: 16px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  align-self: center;
+  margin-right: 3px;
+  min-height: 10px;
+}
